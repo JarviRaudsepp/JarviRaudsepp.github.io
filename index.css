@@ -1,0 +1,30 @@
+h1 {
+font-family: Amatic SC;
+text-align: center;
+font-size: 80px;
+font-weight: bold;
+color: teal;
+}
+
+div {
+    text-align: center;
+}
+
+th {
+color: palevioletred
+
+}
+
+table, td {
+    border: 1px solid black;
+    border-style: outset;
+    border-spacing: 15px;
+    vertical-align: 10px;
+    padding-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 250px;
+    
+
+
+
+}
